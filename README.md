@@ -92,3 +92,11 @@ The Smart Pet Feeder is an innovative solution designed to automate and enhance 
 ## Contributing
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Ensure your code follows the project's coding standards and includes appropriate documentation.
+
+
+
+![petFeeder](https://github.com/MaDhuManodya/Smart-Pet-Feeder-with-Automation/assets/143682729/43b97403-c619-4357-b863-020051e8ace9)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://github.com/MaDhuManodya/Smart-Pet-Feeder-with-Automation/assets/143682729/df515d2a-7298-4f9f-9a52-1b12f1851ba2
